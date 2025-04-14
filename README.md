@@ -4,7 +4,7 @@
 
 ---
 
-## Trabajo Práctico N°1 – Modelos y Simulación de Herramientas Básicas  
+## Trabajo Práctico N°1 – Modelos y Simulación de Herramientas Básicas en Java
 
 **Alumno:** Alfredo Ezequiel Zárate  
 📧 [zaratealfredo6998@gmail.com](mailto:zaratealfredo6998@gmail.com)  
